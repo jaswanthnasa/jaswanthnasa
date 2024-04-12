@@ -14,3 +14,9 @@
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white style="margin-bottom: 15px; height: auto; width: auto;" />
 </a>
 </p>
+
+<a href="https://www.youtube.com/channel/UCd1-0aQmEDA_-7xH7yp9MzQ" target="_blank">
+<img src=https://img.shields.io/badge/Youtube-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white style="margin-bottom: 15px; height: auto; width: auto;" />
+</a>
+</p>
+
