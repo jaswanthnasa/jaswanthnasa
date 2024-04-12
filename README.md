@@ -1,11 +1,9 @@
-### Hi there 👋
-
 <h1 align="center">Hi 👋, I'm Jaswanth Kumar</h1>
 <h3 align="center">DevOps and Cloud Engineer </h3>
 
 - 📫 How to reach me: **n.jaswanthkumar@gmail.com**
 
-**jaswanthnasa/jaswanthnasa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+/* **jaswanthnasa/jaswanthnasa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. */
 
 Here are some ideas to get you started:
 
