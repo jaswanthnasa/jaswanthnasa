@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <h1 align="center">Hi 👋, I'm Jaswanth Kumar</h1>
-<h3 align="center">Software Developer | Application Developer</h3>
+<h3 align="center">DevOps and Cloud Engineer </h3>
 
 - 📫 How to reach me: **n.jaswanthkumar@gmail.com**
 
